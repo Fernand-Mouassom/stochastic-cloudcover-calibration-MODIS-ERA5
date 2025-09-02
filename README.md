@@ -1,4 +1,4 @@
-## Stochastic model cloud cover calibration using MODIS and ERA5 data
+## Calibration of a Stochastic Model for Cloud Cover Using MODIS and ERA5 Data
 
 This repository contains the code and data used in the paper:
 **"Clouds of steel: The ferromagnetic behaviour of low clouds over the Gulf of Guinea"**
