@@ -1,10 +1,10 @@
-## VIMFC as predictor of Extreme Precipitation Events
+## Stochastic model cloud cover calibration using MODIS and ERA5 data
 
 This repository contains the code and data used in the paper:
-**"Convolutional Neural Network-Based Insights into Extreme Precipitation Regional Dynamics over Central Africa Using Moisture Flux Patterns"**
-*Fernand L. Mouassom · Alain T. Tamoffo · Elsa Cardoso-Bihlo, JGR: Atmosphere, 2025*
+**"Clouds of steel: The ferromagnetic behaviour of low clouds over the Gulf of Guinea"**
+*Nyuydini Mohammed Kiven, Fernand L. Mouassom, Elsa Cardoso-Bihlo, Alex Bihlo and Boualem Khouider, npj Climate and Atmospheric Science, 2025*
 
-If you find meaningful errors in the code or have questions, please contact Fernand Mouassom 
+If you find meaningful errors in the code or have questions, please contact Fernand L. Mouassom 
 
 ## Organization of repository 
 * **input_data**: input data used for analysis (not all raw data is included due to size; see details below)
