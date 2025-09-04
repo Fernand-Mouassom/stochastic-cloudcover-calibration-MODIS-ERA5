@@ -11,8 +11,6 @@ import glob
 import os
 import re
 
-
-
 def find_matching_files(mod35_folder, mod06_folder, mod35_output_folder, mod06_output_folder):
     os.makedirs(mod35_output_folder, exist_ok=True)
     os.makedirs(mod06_output_folder, exist_ok=True)

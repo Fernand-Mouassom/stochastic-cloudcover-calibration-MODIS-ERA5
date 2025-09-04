@@ -18,3 +18,8 @@ dependencies:
   - regionmask
   - xarray
   - geopandas
+  - earthaccess
+  - rasterio
+  - pyhdf
+  - pickle
+  - scipy
