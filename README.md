@@ -7,7 +7,7 @@ This repository contains the code and data used in the paper:
 If you find meaningful errors in the code or have questions, please contact Fernand L. Mouassom 
 
 ## Organization of repository 
-* **input_data**: input data used for analysis (not all raw data is included due to size; see details below)
+* **input_data**: run the code 
 * **notebooks**: jupyter notebooks and python scripts to read and analyze data, and create figures
 * **ncl_code** : directory for codes used to calculate vertically integrated moisture flux convergence (VIMFC), and the stream function for the Congo basin cell intensity. This was done using **ncl** for reasons of efficiency and speed compared to **Python**.
 * **processed_data**: processed data from analysis
