@@ -6,14 +6,10 @@ This repository contains the code and data used in the paper:
 
 If you find meaningful errors in the code or have questions, please contact Fernand L. Mouassom 
 
-## Organization of repository 
-* **input_data**: to download MODIS data run the code **download_modis.py** located in the folder **data_preparation** 
-* **notebooks**: jupyter notebooks and python scripts to read and analyze data, and create figures
-* **ncl_code** : directory for codes used to calculate vertically integrated moisture flux convergence (VIMFC), and the stream function for the Congo basin cell intensity. This was done using **ncl** for reasons of efficiency and speed compared to **Python**.
-* **processed_data**: processed data from analysis
-* **figures** :  directory for figure png created by running figure notebooks in **notebooks** directory
-* environment.yml : specifies python packages needed to run notebooks
-* environment_LRP.yml : specifies python packages needed to run the LRP notebook
+## Organization of repository
+* **data**: Contains the data needed to reproduce the results of this work. 
+* **data_analysis**: Contains codes for analysis and tuning of model parameters and curves.
+* **data_preparation**: Contains codes for data preparation prior to analysis.
 
 ## MODIS data
 The two MODIS products used in this project, **MOD35_L2** and **MOD06_L2** can be downloaded from [Earthaccess](https://ladsweb.modaps.eosdis.nasa.gov)
@@ -29,10 +25,10 @@ This include for the Planetary Boundary Layer (1000 - 850 hPa):
 Due to the large size of the raw data, they have not been uploaded in this repositry 
 
 ## Steps to run the notebooks:
-1. download this repository  
+1. download this repository 
 2. download all the variables listed  above (ERA5 and MODIS). 
 3. use the .py codes in the different folders
-4. install the required python modules using conda or pip. The environment.yml rovide information on the required modules. 
+4. install the required python modules using conda or pip. The environment.yml provide information on the required modules. 
 ```bash
 pip install -e . --user
 ```
