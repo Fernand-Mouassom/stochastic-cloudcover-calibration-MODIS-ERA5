@@ -2,7 +2,7 @@
 
 This repository contains the code and data used in the paper:
 **"Clouds of steel: The ferromagnetic behaviour of low clouds over the Gulf of Guinea"**
-*Nyuydini Mohammed Kiven, Fernand L. Mouassom, Elsa Cardoso-Bihlo, Alex Bihlo and Boualem Khouider, npj Climate and Atmospheric Science, 2025*
+*Boualem Khouide, Nyuydini Mohammed Kiven, Fernand L. Mouassom, Elsa Cardoso-Bihlo and Alex Bihlo, npj Climate and Atmospheric Science, 2025*
 
 If you find meaningful errors in the code or have questions, please contact Fernand L. Mouassom 
 
